@@ -1,0 +1,39 @@
+
+.wlcm{
+    display: flex;
+    justify-content: center;
+    font-size: 3rem;
+    /* margin-top: 5rem; */
+}
+.username{
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: rgb(144, 64, 175);
+}
+.password{
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: rgb(144, 64, 175);
+    margin-top: 1rem;
+}
+
+.inputBox{
+    box-sizing: border-box;
+    width:20rem;
+    height: 2.5rem;
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+.loginBtn{
+    background-color: rgb(144, 64, 175);
+    /* padding: 0.5rem 7.3rem; */
+    width: 20rem;
+    height: 2.5rem;
+    color: #ffff;
+    margin-top: 3rem;
+    border-radius: 10px;
+    font-size: 1rem;
+    font-weight: 600;
+    border: none;
+}
